@@ -47,8 +47,5 @@ namespace WebApplication4.Controllers
             context.SaveChanges();
             return RedirectToAction("AllEmployees");
         }
-            
-
-
-    }
+      }
 }
