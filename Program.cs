@@ -57,6 +57,7 @@ namespace Customer
             Console.WriteLine(b.Author);
             Console.WriteLine(b.Price);
             fs.Close();
+            
         }
     }
 }
